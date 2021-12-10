@@ -1,0 +1,3 @@
+sibidharan
+lahtp
+fgets(destination,contentsize,fp)
